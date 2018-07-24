@@ -1,0 +1,3 @@
+https://ssl.mall.cmbchina.com/_CL5_/Product/ProductList?subcategory=411&categoryName=12345625E712345625AE12345625B112345625E5123456258C1234562585&pushwebview=1
+https://ssl.mall.cmbchina.com/_CL5_/Product/ProductList?subcategory=412&categoryName=12345625E9123456259212345625B112345625E512345625A412345625B9&pushwebview=1
+https://ssl.mall.cmbchina.com/_CL5_/Product/ProductList?subcategory=413&categoryName=12345625E512345625A512345625A212345625E51234562593123456258112345625E91234562585123456258D12345625E912345625A512345625B0&pushwebview=1
