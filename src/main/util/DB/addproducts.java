@@ -18,7 +18,7 @@ public class addproducts {
     public static void main(String[] args) throws Exception {
         DB_Helper db = new DB_Helper();
         Connection connect= db.connect;
-        LinkedList<File> fileList =GetAllfile.GetDirectory("D:\\data\\productlist");
+        //LinkedList<File> fileList =GetAllfile.GetDirectory("D:\\data\\productlist");
 
             File fileIn = new File("D:\\data\\allsave3.txt");
             InputStreamReader inStream = new InputStreamReader(new FileInputStream(fileIn), "UTF-8");
